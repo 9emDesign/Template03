@@ -1,4 +1,4 @@
-# Template01 an easy to use HTML5 / CSS3 webpage template.
+# Template03 an easy to use HTML5 / CSS3 webpage template.
 ---
 CC Attribution-ShareAlike 4.0 International
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
